@@ -5,6 +5,8 @@ My adaptation of the New York Times' Spelling Bee Game
 The game presents 7 letters, from which you can create words\
 The central letter is special, so we have colored it purple
 
+To interact, you may type through your keyboard. Only the available 7 letters will register. You can backspace if necessary, and hit return to enter a word (will only work if the word is valid).
+
 An entered word must...\
 • use only the available letters (can repeat the letters)\
 • contain 4+ letters\
