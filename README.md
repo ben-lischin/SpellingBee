@@ -8,7 +8,7 @@ The central letter is special, so we have colored it purple
 An entered word must...\
 • use only the available letters (can repeat the letters)\
 • contain 4+ letters\
-• contain the center (purple) letter\
+• contain the special (purple) letter\
 • be a word in the dictionary (for our purposes, contained in words.txt)\
 • not be a duplicate of an already-entered word
 
