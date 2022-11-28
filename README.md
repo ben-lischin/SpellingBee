@@ -1,5 +1,5 @@
 # Spelling Bee
-My adaptation of the New York Times' Spelling Bee Game
+My adaptation of the New York Times' Spelling Bee game
 
 
 The game presents 7 letters, from which you can create words\
