@@ -21,9 +21,7 @@ Scoring works as follows:\
 
 
 
-
-
-
+https://github.com/ben-lischin/SpellingBee/blob/9f2b854c8fe5d4fe058d362d3ac99e27fde094a9/SpellingBeeDemo.mp4
 
 
 
