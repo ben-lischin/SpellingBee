@@ -21,7 +21,7 @@ Scoring works as follows:\
 
 
 
-
+SpellingBeeDemo.mp4
 
 
 
