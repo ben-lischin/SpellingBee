@@ -19,7 +19,7 @@ Scoring works as follows:\
 
 
 
-https://user-images.githubusercontent.com/94412143/204410176-15ffe6d9-b32b-4cda-9d8a-6ded9cb6b09a.mp4
+https://user-images.githubusercontent.com/94412143/204573646-a4b1862c-5310-48dc-8495-1a7d0c744638.mp4
 
 
 
