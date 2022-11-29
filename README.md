@@ -18,3 +18,6 @@ Scoring works as follows:\
 • 1 point awarded for a 4-letter word\
 • +1 point for every additional letter beyond the first four\
 • +7 bonus points for entering a panagram (uses all 7 letters)
+
+
+Note: the current game is set up to use the letters a,r,s,e,t,i,h. You can change this by altering the list of letters, LETTERS-1, on line 112 of SpellingBee.rkt to be whichever 7 letters you would like (the 4th letter will be interpreted as the special letter).
