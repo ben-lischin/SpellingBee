@@ -1,6 +1,4 @@
 # Spelling Bee
-An adaptation of the New York Times' Spelling Bee game
-
 
 The game presents 7 letters, from which you can create words\
 The central letter is special, so we have colored it purple
