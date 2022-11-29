@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/94412143/204410176-15ffe6d9-b32b-4cda-
 
 
 Note: the current game is set up to use the letters a,r,s,e,t,i,h\
-You can change this by altering the list of letters, LETTERS-1, on line 112 of SpellingBee.rkt to be whichever 7 letters you would like (the 4th letter will be interpreted as the special letter).
+You can change this by altering the list of letters, LETTERS-1, on line 112 of SpellingBee.rkt to be whichever 7 letters you would like (the 4th letter will be interpreted as the special letter)
