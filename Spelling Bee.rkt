@@ -107,11 +107,6 @@
                             (text word LOG-WORD-SIZE WORD-COLOR))
                           (world-word-log w))))
 
-
-
-
-
-
 ; a Letters is a [NE-List-of 1String]
 ; Interpretation: the letters that can be used to make words
 (define LETTERS-1 (list "a" "r" "s" "e" "t" "i" "h"))
@@ -176,9 +171,6 @@
                (text "e" WORD-SIZE WORD-COLOR)))
 (define (letters->image los)
   (display-image-list (main-letter los)))
-
-; MAKE THE MIDDLE CHARACTER A DIFFERENT COLOR
-; (defined as the fourth from last letter, assuming we provide a world with 7 letters)
 
 ; main-letter : [NEList-of 1String] -> [List-of Image]
 ; calls draw-letters to draw the whole list of Letters one at a time and compiles them into a single
@@ -314,12 +306,6 @@
 (define (can-type? w key)
   (ormap (λ (l) (key=? key l)) (world-letters w)))
 ; if you type a valid key
-
-
-; Scoring:
-; 1. One point for a four-letter word,
-; 2. An additional point for every additional letter beyond the first four, and
-; 3. An additional seven bonus points for using all seven letters.
 
 ; change-score : World -> NatNum
 ; updates the score according to the length of the word
